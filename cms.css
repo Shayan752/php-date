@@ -1,0 +1,83 @@
+
+@font-face {
+    font-family: "IRANSansWeb";
+    src: url('fonts/IRANSansWeb.woff2') format('woff2');
+    font-weight: normal;
+}
+body{
+    background-color: #b9ebcc !important;
+    font-family: "IRANSansWeb" !important;
+    text-align: right !important;
+}
+.form-group{
+    font-family: "IRANSansWeb" !important;
+
+}
+.navbar{
+    margin-bottom: 40px;
+}
+.main-form{
+    width: 450px;
+    margin: auto;
+    text-align: right;
+}
+.form-control{
+    text-align: right;
+}
+.input-group{
+    text-align: right;
+}
+.input-group-text{
+    text-align: right;
+}
+#title{
+    text-align: center;
+}
+.checkbox.rtl {
+    padding-left: 0px; 
+    padding-right: 20px; }
+    .checkbox.rtl label {
+      padding-left: 0px;
+      padding-right: 5px; }
+      .checkbox.rtl label::before {
+        left: auto;
+        right: 2px;
+        margin-left: 0;
+        margin-right: -20px; }
+      .checkbox.rtl label::after {
+        left: auto;
+        right: 0;
+        margin-left: 0px;
+        margin-right: -20px;
+        padding-left: 0px;
+        padding-right: 3px; }
+    .checkbox.rtl input[type="checkbox"]{
+      margin-left: 0px;
+    }
+#submit_b{
+    padding-right:170px;
+    padding-left:150px;
+    margin:30px;
+    text-align: center;
+}
+body{
+background-color: #b9ebcc !important;
+text-align: right !important;
+overflow-x: hidden;
+  }
+.custom-checkbox{
+    text-align: right;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.custom-control-label{
+    text-align: right;
+
+}
+.card-body{
+    text-align: right !important;
+
+}
+.container-fluid{
+    margin-top:30px !important;
+}
